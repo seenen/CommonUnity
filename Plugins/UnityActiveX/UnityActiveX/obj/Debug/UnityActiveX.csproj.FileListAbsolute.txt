@@ -1,0 +1,39 @@
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\obj\Debug\ResolveAssemblyReference.cache
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.csproj.ResolveComReference.cache
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\obj\Debug\ResGen.read.1.tlog
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\obj\Debug\ResGen.write.1.tlog
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\bin\Debug\UnityActiveX.dll
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\bin\Debug\UnityActiveX.pdb
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\bin\Debug\AxInteropUnityWebPlayerAXLib.dll
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\bin\Debug\AxInteropUnityWebPlayerAXLib.pdb
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.UnityActiveXControl.resources
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.dll
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.pdb
+D:\UNITY 3D\UnityActiveX\UnityActiveX\UnityActiveX\bin\Debug\IUnity.dll
+D:\TEMP\UnityActiveX\UnityActiveX\bin\Debug\UnityActiveX.dll
+D:\TEMP\UnityActiveX\UnityActiveX\bin\Debug\UnityActiveX.pdb
+D:\TEMP\UnityActiveX\UnityActiveX\bin\Debug\AxInteropUnityWebPlayerAXLib.dll
+D:\TEMP\UnityActiveX\UnityActiveX\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+D:\TEMP\UnityActiveX\UnityActiveX\bin\Debug\AxInteropUnityWebPlayerAXLib.pdb
+D:\TEMP\UnityActiveX\UnityActiveX\obj\Debug\ResolveAssemblyReference.cache
+D:\TEMP\UnityActiveX\UnityActiveX\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+D:\TEMP\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.csproj.ResolveComReference.cache
+D:\TEMP\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.UnityActiveXControl.resources
+D:\TEMP\UnityActiveX\UnityActiveX\obj\Debug\ResGen.read.1.tlog
+D:\TEMP\UnityActiveX\UnityActiveX\obj\Debug\ResGen.write.1.tlog
+D:\TEMP\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.dll
+D:\TEMP\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.pdb
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\bin\Debug\UnityActiveX.dll
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\bin\Debug\UnityActiveX.pdb
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\bin\Debug\AxInteropUnityWebPlayerAXLib.dll
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\bin\Debug\AxInteropUnityWebPlayerAXLib.pdb
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.csprojResolveAssemblyReference.cache
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.csproj.ResolveComReference.cache
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.UnityActiveXControl.resources
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.csproj.GenerateResource.Cache
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.dll
+F:\Heros\CommonUnity\Plugins\UnityActiveX\UnityActiveX\obj\Debug\UnityActiveX.pdb

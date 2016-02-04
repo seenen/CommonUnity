@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommonUnity</name>
+    </assembly>
+    <members>
+        <member name="M:CommonUnity.Demo.Load">
+            <summary>
+            加载一个场景
+            </summary>
+        </member>
+        <member name="M:CommonUnity.Demo.Unload">
+            <summary>
+            卸载一个场景
+            </summary>
+        </member>
+        <member name="M:CommonUnity.NavBotAgent.CorrectPos2NavPos(UnityEngine.Vector3)">
+            <summary>
+            
+            </summary>
+            <param name="pos"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
